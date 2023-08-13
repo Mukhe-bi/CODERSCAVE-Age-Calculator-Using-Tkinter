@@ -1,6 +1,6 @@
 # CODERSCAVE-Age-Calculator-Using-Tkinter
 Age Calculator Using Tkinter Py
-# Age Calculator Using Tkinter (Years Only)
+# Age Calculator Using Tkinter 
 
 This is a simple Age Calculator implemented in Python using the Tkinter library. It calculates and displays the age in years based on the date of birth entered by the user.
 
